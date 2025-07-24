@@ -13,7 +13,7 @@ function shuffle(array) {
 const originalWishes = [
   {
     text: "Your life is a light that guides and inspires—may your birthday be filled with the same love you so freely give.",
-    img: "src/assets/1.jpg"
+    img: "/Assets/1.jpg"
   },
   {
     text: "Wishing a man of wisdom, strength, and grace a birthday as meaningful as the impact he’s had on others.",

@@ -8,6 +8,6 @@ export default function AudioPlayer() {
   }, []);
 
   return (
-    <audio ref={audioRef} src="public/Assets/audio/B-song.mp3" autoPlay />
+    <audio ref={audioRef} src="/Assets/audio/B-song.mp3" autoPlay />
   );
 }
